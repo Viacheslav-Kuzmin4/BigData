@@ -11,7 +11,7 @@
 
 **1. RideCleansing**
 
-<img width="434" src="ЛР3/1.png">
+<img width="434" src="https://github.com/Viacheslav-Kuzmin4/BigData/blob/main/ЛР3/1.png">
 
 **2. RideAndFares**
 
