@@ -11,4 +11,4 @@
 Результат представлен на скриншоте.
 
 
-<img src="/LR2/LR2.png" width="200"/>
+<img src="https://github.com/Viacheslav-Kuzmin4/BigData/blob/main/ЛР2/LR2.png" width="200"/>
