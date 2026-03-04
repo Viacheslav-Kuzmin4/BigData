@@ -11,7 +11,7 @@
 
 **1. RideCleansing**
 
-<img width="434" alt="Снимок экрана 2024-04-22 в 00 11 33" src="https://github.com/borntosparklelikeaunicorn/big_Data/assets/147177755/64138932-9973-4614-ad54-b0fbb99f38d6">
+<img width="434" alt="Снимок экрана 2024-04-22 в 00 11 33" src="/LR3/1.png">
 
 **2. RideAndFares**
 
